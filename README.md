@@ -1,1 +1,2 @@
 # Sales-Performance-Analysis
+The project involves the analysis of sales data for a business. The data includes sales and profit margins for products, salespersons, customers, and counties. The analysis aims to identify patterns, trends, and factors contributing to the success or failure of the business in generating sales and profits. The insights generated from the analysis could help the business improve its performance, identify growth opportunities, and optimize its resource allocation.
